@@ -10,7 +10,7 @@
 - 💻 Desenvolvendo soluções para acabar com o trabalho manual e repetitivo através de código.
 - ⚙️ Experiência na construção de automações (RPA) para web e manipulação de dados.
 - 🐧 Entusiasta de Linux e do ecossistema Open Source.
-- 🎮 Quando não estou codando, provavelmente estou jogando Clash Royale (Mega Cavaleiro sempre na defesa).
+- 🎮 Quando não estou codando, provavelmente estou jogando Clash Royale (Log Bait nunca falha!).
 
 <br/>
 
