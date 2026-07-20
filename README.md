@@ -1,40 +1,45 @@
-<h1 align="center">Olá, eu sou o Zak! ⚡</h1>
+<h1 align="center">Olá! 👋 Sou Isaac Celestino Penco Maria</h1>
+<h3 align="center">Desenvolvedor Python | Back-end, Automação (RPA) e Dados</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2EBA6E&center=true&vCenter=true&width=500&lines=Desenvolvedor+Python;Focado+em+Automações+e+RPA;Usuário+de+Fedora+Linux" alt="Typing SVG" />
-</div>
+<p align="center">
+  Transformando processos manuais e dados complexos em soluções eficientes.
+</p>
 
-<br/>
+---
 
-## 🤖 Sobre Mim
-- 💻 Desenvolvendo soluções para acabar com o trabalho manual e repetitivo através de código.
-- ⚙️ Experiência na construção de automações (RPA) para web e manipulação de dados.
-- 🐧 Entusiasta de Linux e do ecossistema Open Source.
-- 🎮 Quando não estou codando, provavelmente estou jogando Clash Royale (Log Bait nunca falha!).
+### 👨‍💻 Sobre mim
 
-<br/>
+- 🔭 Atualmente focando em desenvolvimento de soluções escaláveis utilizando **Python, Pandas e Flet**.
+- 🐧 Entusiasta de código aberto e desenvolvimento em ambiente Linux (Fedora).
+- 🎯 Minha especialidade é construir scripts robustos que eliminam tarefas repetitivas e extraem insights de negócios valiosos.
+- 📍 De Mesquita, RJ para o mundo das linhas de código!
+- 📫 Como me encontrar: **devzakp@gmail.com** ou no [LinkedIn](https://www.linkedin.com/in/isaac-penco/)
 
-## 🛠️ Tecnologias e Ferramentas
+---
 
-<div align="center">
+### 🚀 Projetos em Destaque
+
+#### 📊 [Análise de Churn (Cancelamento de Clientes)](https://github.com/zakpgit/analise-churn-python)
+Projeto focado em Data Science e visão estratégica de negócios. Utilização de **Pandas e Plotly** para identificar gargalos operacionais e propor soluções que, em simulação, reduziram a taxa de cancelamento de 56% para 18%.
+
+#### 🤖 [Automação de Processos Corporativos (RPA)](https://github.com/zakpgit/PYTHON-POWERUP)
+Script automatizado construído com **PyAutoGUI e Pandas** configurado para cadastrar milhares de produtos em sistemas corporativos de forma ágil, eliminando 100% da entrada manual de dados.
+
+#### 📱 Aplicativo Multiplataforma de Chat *(Em desenvolvimento)*
+Criação de um chat ao vivo com interface web e mobile, estruturando todo o front-end e back-end inteiramente em Python utilizando o framework **Flet**.
+
+#### 🧠 Previsor de Score de Crédito com IA *(Em desenvolvimento)*
+Implementação de um modelo preditivo com Inteligência Artificial para avaliar risco e prever o score de clientes bancários com alta precisão.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flet-000000?style=for-the-badge&logo=flet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
-</div>
-
-<br/>
-
-## 📊 Minhas Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakpgit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</div>
-
-<br/>
-
-## 📞 Contato
-<div align="center">
-  <a href="https://www.linkedin.com/in/isaac-penco/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:devzakp@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
