@@ -19,6 +19,9 @@
 
 ### 🚀 Projetos em Destaque
 
+#### 🧠 [Previsor de Score de Crédito com IA](https://github.com/zakpgit/previsor-score-ia-python)
+Implementação de um modelo preditivo de Machine Learning utilizando **Scikit-Learn** (Random Forest) para avaliar risco financeiro. O modelo lê o histórico de clientes e classifica automaticamente o score com precisão superior a 80%.
+
 #### 📊 [Análise de Churn (Cancelamento de Clientes)](https://github.com/zakpgit/analise-churn-python)
 Projeto focado em Data Science e visão estratégica de negócios. Utilização de **Pandas e Plotly** para identificar gargalos operacionais e propor soluções que, em simulação, reduziram a taxa de cancelamento de 56% para 18%.
 
@@ -28,9 +31,6 @@ Script automatizado construído com **PyAutoGUI e Pandas** configurado para cada
 #### 📱 Aplicativo Multiplataforma de Chat *(Em desenvolvimento)*
 Criação de um chat ao vivo com interface web e mobile, estruturando todo o front-end e back-end inteiramente em Python utilizando o framework **Flet**.
 
-#### 🧠 Previsor de Score de Crédito com IA *(Em desenvolvimento)*
-Implementação de um modelo preditivo com Inteligência Artificial para avaliar risco e prever o score de clientes bancários com alta precisão.
-
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
@@ -38,6 +38,7 @@ Implementação de um modelo preditivo com Inteligência Artificial para avaliar
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Flet-000000?style=for-the-badge&logo=flet&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux_Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
